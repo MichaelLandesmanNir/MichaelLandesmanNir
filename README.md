@@ -1,5 +1,10 @@
-Hello! I'm **Michael Landesman Nir**
+<h1 align="center">Hi, I'm Michael Landesman Nir</h1>
 I'm A Computer Science student. I enjoy learning and solving complex problems, whether in academics, projects, or real-world applications.
+
+## Connect with me:
+- **Email:** miki.landesman@gmail.com ✉️  
+- **GitHub:** [MichaelLandesmanNir]()   
+- **LinkedIn:** [Michael Landesman Nir LinkedIn](https://www.linkedin.com/in/michael-landesman-nir) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roeehashai/" height="20" width="20" />
 
 ## Skills & Technologies:
 - **Programming Languages:** C, C++, Java, Python, Assembly, javascript, html, css.🖥️💻
@@ -19,9 +24,3 @@ Here are some of the projects I have worked on:
 
 - [Arkanoid Game in Java]() 🎮🎉
 - 
-
-## Contact:
-Feel free to reach out for collaborations, professional inquiries, or technical discussions! 🚀
-- **Email:** miki.landesman@gmail.com 📧✉️  
-- **GitHub:** [MichaelLandesmanNir]() 🧑‍💻🔍  
-- **LinkedIn:** [Michael Landesman Nir LinkedIn](https://www.linkedin.com/in/michael-landesman-nir) 🔗🌐
