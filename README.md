@@ -23,4 +23,4 @@ Here are some of the projects I have worked on:
 Feel free to reach out for collaborations, professional inquiries, or technical discussions! 🚀
 - **Email:** miki.landesman@gmail.com 📧✉️  
 - **GitHub:** [MichaelLandesmanNir]() 🧑‍💻🔍  
-- **LinkedIn:** [itayalter1 LinkedIn](https://www.linkedin.com/in/michael-landesman-nir) 🔗🌐
+- **LinkedIn:** [Michael Landesman Nir LinkedIn](https://www.linkedin.com/in/michael-landesman-nir) 🔗🌐
