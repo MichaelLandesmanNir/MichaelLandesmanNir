@@ -1,4 +1,5 @@
-Hello! I'm **Michael Landesman Nir**, a **Computer Science** student at **Bar-Ilan University** with a strong focus on software development, algorithms, and real-time systems. I am passionate about coding, problem-solving, and applying my skills to real-world projects. 💻🔧🚀
+Hello! I'm **Michael Landesman Nir**
+I'm A Computer Science student. I enjoy learning and solving complex problems, whether in academics, projects, or real-world applications.
 
 ## Skills & Technologies:
 - **Programming Languages:** C, C++, Java, Python, Assembly, javascript, html, css.🖥️💻
