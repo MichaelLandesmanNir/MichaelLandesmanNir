@@ -3,7 +3,7 @@ I'm A Computer Science student. I enjoy learning and solving complex problems, w
 
 ## Connect with me:
 - **Email:** miki.landesman@gmail.com ✉️  
-- **GitHub:** [MichaelLandesmanNir]()  
+- **GitHub:** [MichaelLandesmanNir](https://github.com/MichaelLandesmanNir)  
 - **LinkedIn:** [Michael Landesman Nir LinkedIn](https://www.linkedin.com/in/michael-landesman-nir) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15" width="20" />
 
 ## Skills & Technologies:
