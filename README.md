@@ -19,7 +19,7 @@
 <h3 align="left">Recent Projects:</h3>
 
 - **Full-Stack YouTube-like Web App**: I developed a full end-to-end full-stack for video sharing and user management using React for the front end, Node.js for the back end, and MongoDB for the database.
-[YouTube-like Web App](https://github.com/MichaelLandesmanNir/projectgit/tree/main/YouTube)
+[YouTube-like Web App](https://github.com/MichaelLandesmanNir/YouTube-Web-App)
      
 - **Arkanoid Game**: A Java-based game implementing object-oriented principles- Arkanoid is a classic brick-breaking game where players control a paddle to bounce a ball and break bricks
   [Arkanoid Game in Java](https://github.com/MichaelLandesmanNir/projectgit)
