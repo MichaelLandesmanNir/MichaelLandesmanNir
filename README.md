@@ -27,3 +27,6 @@
 - **Multiple Frames Bouncing Ball Animation**
 The Multiple Frames Bouncing Ball Animation project is a graphical user interface application that demonstrates ball animation across multiple frames.
 
+- **Snake Game**
+The Snake Game is a simple Python-based game using the turtle module, where players control a snake to eat food, grow in size, and avoid collisions. It features movement controls, score tracking, and game-over detection with potential future improvements like difficulty levels and high scores. [Snake Game]()🚀🐍
+
