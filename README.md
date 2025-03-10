@@ -34,3 +34,5 @@ The Snake Game is a simple Python-based game using the turtle module, where play
   Developed a concurrent, multithreaded news broadcasting simulation employing synchronization mechanisms and producer-consumer patterns. Implemented thread-safe bounded buffers with semaphores to manage efficient data flow and ensure system responsiveness. 
 [Synchronization and Producer-Consumer Patterns](https://github.com/MichaelLandesmanNir/Concurrent-Programming-and-Synchronization-Mechanisms.git)
 
+- **Multi-Process File Synchronization and Buffered I/O in C**
+Implemented advanced file synchronization and buffered I/O techniques in C, focusing on inter-process communication, concurrency control, and efficient file management. Demonstrated practical understanding of synchronization methods through targeted programming exercises. [File Synchronization and Buffered I/O]()
