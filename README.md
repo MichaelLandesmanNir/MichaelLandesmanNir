@@ -18,21 +18,26 @@
 
 <h3 align="left">Recent Projects:</h3>
 
-- **Full-Stack YouTube-like Web App**: I developed a full end-to-end full-stack for video sharing and user management using React for the front end, Node.js for the back end, and MongoDB for the database.
-[YouTube-like Web App](https://github.com/MichaelLandesmanNir/YouTube-Web-App)
-     
-- **Arkanoid Game**: A Java-based game implementing object-oriented principles- Arkanoid is a classic brick-breaking game where players control a paddle to bounce a ball and break bricks
+- **Full-Stack YouTube-like Web App 🎬📹**:  
+  I developed a full end-to-end full-stack for video sharing and user management using React for the front end, Node.js for the back end, and MongoDB for the database.  
+  [YouTube-like Web App](https://github.com/MichaelLandesmanNir/YouTube-Web-App)
+
+- **Arkanoid Game 🎮🧱**:  
+  A Java-based game implementing object-oriented principles—Arkanoid is a classic brick-breaking game where players control a paddle to bounce a ball and break bricks.  
   [Arkanoid Game in Java](https://github.com/MichaelLandesmanNir/projectgit)
 
-- **Multiple Frames Bouncing Ball Animation**
-The Multiple Frames Bouncing Ball Animation project is a graphical user interface application that demonstrates ball animation across multiple frames.
+- **Multiple Frames Bouncing Ball Animation ⚽✨**:  
+  The Multiple Frames Bouncing Ball Animation project is a graphical user interface application that demonstrates ball animation across multiple frames.
 
-- **Snake Game**
-The Snake Game is a simple Python-based game using the turtle module, where players control a snake to eat food, grow in size, and avoid collisions. It features movement controls, score tracking, and game-over detection with potential future improvements like difficulty levels and high scores. [Snake Game](https://github.com/MichaelLandesmanNir/Snake-Game.git)🚀🐍
+- **Snake Game 🐍🎲**:  
+  The Snake Game is a simple Python-based game using the turtle module, where players control a snake to eat food, grow in size, and avoid collisions. It features movement controls, score tracking, and game-over detection with potential future improvements like difficulty levels and high scores.  
+  [Snake Game](https://github.com/MichaelLandesmanNir/Snake-Game.git)
 
-- **Multithreaded Newsroom: Synchronization and Producer-Consumer Patterns**
-  Developed a concurrent, multithreaded news broadcasting simulation employing synchronization mechanisms and producer-consumer patterns. Implemented thread-safe bounded buffers with semaphores to manage efficient data flow and ensure system responsiveness. 
-[Synchronization and Producer-Consumer Patterns](https://github.com/MichaelLandesmanNir/Concurrent-Programming-and-Synchronization-Mechanisms.git)
+- **Multithreaded Newsroom: Synchronization and Producer-Consumer Patterns 📰🔄**:  
+  Developed a concurrent, multithreaded news broadcasting simulation employing synchronization mechanisms and producer-consumer patterns. Implemented thread-safe bounded buffers with semaphores to manage efficient data flow and ensure system responsiveness.  
+  [Synchronization and Producer-Consumer Patterns](https://github.com/MichaelLandesmanNir/Concurrent-Programming-and-Synchronization-Mechanisms.git)
 
-- **Multi-Process File Synchronization and Buffered I/O in C**
-Implemented advanced file synchronization and buffered I/O techniques in C, focusing on inter-process communication, concurrency control, and efficient file management. Demonstrated practical understanding of synchronization methods through targeted programming exercises. [File Synchronization and Buffered I/O]()
+- **Multi-Process File Synchronization and Buffered I/O in C 📂⚙️**:  
+  Implemented advanced file synchronization and buffered I/O techniques in C, focusing on inter-process communication, concurrency control, and efficient file management. Demonstrated practical understanding of synchronization methods through targeted programming exercises.  
+  [File Synchronization and Buffered I/O](https://github.com/MichaelLandesmanNir/Multi-Process-File-Synchronization-and-IO-in-C.git)
+
