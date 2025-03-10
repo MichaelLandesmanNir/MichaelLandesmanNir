@@ -32,5 +32,5 @@ The Snake Game is a simple Python-based game using the turtle module, where play
 
 - **Multithreaded Newsroom: Synchronization and Producer-Consumer Patterns**
   Developed a concurrent, multithreaded news broadcasting simulation employing synchronization mechanisms and producer-consumer patterns. Implemented thread-safe bounded buffers with semaphores to manage efficient data flow and ensure system responsiveness. 
-[Synchronization and Producer-Consumer Patterns]()
+[Synchronization and Producer-Consumer Patterns](https://github.com/MichaelLandesmanNir/Concurrent-Programming-and-Synchronization-Mechanisms.git)
 
