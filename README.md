@@ -30,3 +30,7 @@ The Multiple Frames Bouncing Ball Animation project is a graphical user interfac
 - **Snake Game**
 The Snake Game is a simple Python-based game using the turtle module, where players control a snake to eat food, grow in size, and avoid collisions. It features movement controls, score tracking, and game-over detection with potential future improvements like difficulty levels and high scores. [Snake Game](https://github.com/MichaelLandesmanNir/Snake-Game.git)🚀🐍
 
+- **Multithreaded Newsroom: Synchronization and Producer-Consumer Patterns**
+  Developed a concurrent, multithreaded news broadcasting simulation employing synchronization mechanisms and producer-consumer patterns. Implemented thread-safe bounded buffers with semaphores to manage efficient data flow and ensure system responsiveness. 
+[Synchronization and Producer-Consumer Patterns]()
+
