@@ -34,7 +34,7 @@
 
 - **Arkanoid Game 🎮🧱**:  
   A Java-based game implementing object-oriented principles—Arkanoid is a classic brick-breaking game where players control a paddle to bounce a ball and break bricks.  
-  [Arkanoid Game in Java](https://github.com/MichaelLandesmanNir/projectgit)
+  [Arkanoid Game in Java](https://github.com/MichaelLandesmanNir/Arkanoid.git)
 
 - **Multiple Frames Bouncing Ball Animation ⚽✨**:  
   The Multiple Frames Bouncing Ball Animation project is a graphical user interface application that demonstrates ball animation across multiple frames.
